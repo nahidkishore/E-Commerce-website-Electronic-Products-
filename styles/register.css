@@ -1,0 +1,40 @@
+h1{
+  padding:10px;
+  margin: 10px;
+  color:darkgray;
+  text-align:caption;
+}
+body{
+  background-color: #00FEF1E7;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+.registation{
+  
+  background:darkgray;
+  height:800 px;
+  width: 600 px;
+
+}
+.registation form {
+  padding:20px;
+  margin: 30px;
+}
+.registation input {
+  margin-bottom:3px;
+  padding:10px;
+  width: 100%;
+  border:1px solid #CCC
+}
+.registation input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height:40px;
+	background:#fb2525;
+	color:#fff;
+	font-size:18px;
+	border-radius:20px;
+}

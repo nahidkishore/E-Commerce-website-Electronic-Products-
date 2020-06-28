@@ -1,0 +1,17 @@
+body{
+background-color:black;
+}
+.mail{
+	 padding-top:50px;
+}
+.mail form{
+ 
+  padding:40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  width:45%;
+  height:300px;
+  margin: 0 auto;
+  text-align:center;
+  background-color:#E8E8FF;
+  border-radius:40px;
+}
